@@ -1,0 +1,25 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 465,
+  "default_resume_path": "attachments/resume.pdf",
+  "job_positions": {
+    "Flutter Developer": {
+      "email_subject": "Application for Flutter Developer Position",
+      "email_body": "Dear Hiring Manager,\nI am writing to express my strong interest in the Flutter Developer position at your organization, With great experience in mobile app development, I possess a strong understanding of Flutter and Dart.\nMy resume, attached for your review, highlights my experience in Mobile Development using flutter and other technical skills. I am eager to contribute my skills and enthusiasm to your organization.\nThank you for your time and consideration.\n\nSincerely,\nAkshay Patil\nMobile No. : +919022889158\nEmail : app9823696@gmail.com\nLinkedIn : https://www.linkedin.com/in/akshayp01",
+      "resume_path": "attachments/resume.pdf",
+      "keywords": ["Flutter", "Dart", "Mobile Developer"]
+    },
+    "Python Developer": {
+      "email_subject": "Application for Python Developer Position",
+      "email_body": "Dear Hiring Manager,\nI am writing to express my strong interest in the Python Developer position at your organization. With extensive experience in Python development, I have a solid understanding of various frameworks and libraries.\nMy resume, attached for your review, highlights my experience in Python development and other technical skills. I am eager to contribute my skills and enthusiasm to your organization.\nThank you for your time and consideration.\nSincerely,\nAkshay Patil\nMobile No. : +919022889158\nEmail : app9823696@gmail.com\nLinkedIn : https://www.linkedin.com/in/akshayp01",
+      "resume_path": "attachments/resume.pdf",
+      "keywords": ["Python", "Django", "Flask", "Backend Developer"]
+    },
+    "React Developer": {
+      "email_subject": "Application for React Developer Position",
+      "email_body": "Dear Hiring Manager,\nI am writing to express my strong interest in the React Developer position at your organization. With extensive experience in web development, I have a solid understanding of React and its ecosystem.\nMy resume, attached for your review, highlights my experience in web development using React and other technical skills. I am eager to contribute my skills and enthusiasm to your organization.\nThank you for your time and consideration.\nSincerely,\nAkshay Patil\n\nMobile No. : +919022889158\nEmail : app9823696@gmail.com\nLinkedIn : https://www.linkedin.com/in/akshayp01",
+      "resume_path": "attachments/resume.pdf",
+      "keywords": ["React", "JavaScript", "Frontend Developer", "Web Developer"]
+    }
+  }
+}
